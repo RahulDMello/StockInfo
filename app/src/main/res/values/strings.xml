@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StockInfo</string>
+
+    <string name="error_state_message">Error fetching data. Please try again later.</string>
+    <string name="stock_title">%s %s</string>
+    <string name="price">Price: %s</string>
+    <string name="quantity">Quantity: %s</string>
+    <string name="time">Time: %s</string>
+</resources>
